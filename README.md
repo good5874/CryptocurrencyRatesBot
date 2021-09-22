@@ -1,4 +1,6 @@
 # CryptocurrencyRatesBot
+@Cryptocurrency_Rates_Bot - бот
+
 в CryptocurrencyRatesBot.DAL.DataBase.BotDbContext поменять подключение к бд, бд сама создаётся
 
 CryptocurrencyRatesBot.Web этот проект запускать
